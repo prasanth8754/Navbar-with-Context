@@ -1,0 +1,29 @@
+.home-bg-cont {
+  background-color: #ffffff;
+  height: 100vh;
+}
+
+.home-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 95vh;
+}
+
+.home-img {
+  width: 200px;
+}
+
+.home-h1 {
+  color: #171f46;
+  font-size: 35px;
+}
+
+.home-bg-dark {
+  background-color: #000000 !important;
+}
+
+.home-text-dark {
+  color: #ffffff !important;
+}
